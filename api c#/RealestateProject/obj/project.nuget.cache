@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Qbl3vQs1zr/SOcI4DL5pqWA5nE/oDYuXGplW3gCwvJsTI2si6MpfLSkLL2Yl2UO7yesKcoA/mmYS94Suj3E5w==",
+  "success": true,
+  "projectFilePath": "D:\\תכנות שנה ב\\real esate poject\\api c#\\RealEstateProject\\RealEstateProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shira abrams\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\shira abrams\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\shira abrams\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\shira abrams\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\shira abrams\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\shira abrams\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
